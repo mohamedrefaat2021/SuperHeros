@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "MohamedRefaat_TechnicalTest.Controllers.SuperheroController",
+    "Method": "Create",
+    "RelativePath": "api/superhero/addsuperhero",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createModel",
+        "Type": "MohamedRefaat_TechnicalTest.Application.DTOs.SuperheroDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MohamedRefaat_TechnicalTest.Controllers.SuperheroController",
+    "Method": "Index",
+    "RelativePath": "api/superhero/getsuperheros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "superheroName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

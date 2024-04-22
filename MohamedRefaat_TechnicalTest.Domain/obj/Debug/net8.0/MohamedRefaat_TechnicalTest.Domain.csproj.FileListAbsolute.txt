@@ -1,0 +1,14 @@
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.deps.json
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.runtimeconfig.json
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.dll
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.pdb
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.csproj.AssemblyReference.cache
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.AssemblyInfoInputs.cache
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.AssemblyInfo.cs
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.csproj.CoreCompileInputs.cache
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.dll
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\refint\MohamedRefaat_TechnicalTest.Domain.dll
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.pdb
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.genruntimeconfig.cache
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Domain\obj\Debug\net8.0\ref\MohamedRefaat_TechnicalTest.Domain.dll

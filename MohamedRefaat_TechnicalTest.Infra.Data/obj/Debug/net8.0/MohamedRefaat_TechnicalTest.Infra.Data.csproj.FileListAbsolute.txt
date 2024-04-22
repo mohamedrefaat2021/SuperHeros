@@ -1,0 +1,17 @@
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.deps.json
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.runtimeconfig.json
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.dll
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.pdb
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.dll
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\bin\Debug\net8.0\MohamedRefaat_TechnicalTest.Domain.pdb
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.csproj.AssemblyReference.cache
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.AssemblyInfoInputs.cache
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.AssemblyInfo.cs
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.csproj.CoreCompileInputs.cache
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedR.EE69915C.Up2Date
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.dll
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\refint\MohamedRefaat_TechnicalTest.Infra.Data.dll
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.pdb
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\MohamedRefaat_TechnicalTest.Infra.Data.genruntimeconfig.cache
+D:\MohamedRefaat_TechnicalTest\MohamedRefaat_TechnicalTest.Infra.Data\obj\Debug\net8.0\ref\MohamedRefaat_TechnicalTest.Infra.Data.dll
